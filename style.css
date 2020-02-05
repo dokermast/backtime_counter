@@ -1,0 +1,119 @@
+
+h3, .title {
+    text-align: center;
+}
+#time {
+    color: brown;
+    font-size: x-large;
+}
+
+div>span {
+    margin-left: 50px;
+}
+#sprite {
+    width: auto;
+    height: 400px;
+    margin: 200px 0;
+    padding-top: 100px;
+    background-color: #2fd1fa;
+}
+
+.title {
+    color: blue;
+}
+
+.data {
+    font-size: x-large;
+    color: crimson;
+}
+
+.alt {
+    width: 70px;
+    margin: 0;
+    float: left;
+}
+
+#footer {
+    width: auto;
+    height: 200px;
+    margin-top: 300px;
+}
+
+.default {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: 0px 0px;
+}
+.pic0 {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: -400px -142px;
+}
+.pic1 {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: -5px 0px;;
+}
+.pic2 {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: -100px 0px;
+}
+.pic3 {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: -200px 0px;
+}
+.pic4 {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: -300px 0px;
+}
+.pic5 {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: -390px 0px;
+}
+.pic6 {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: -15px -142px;
+}
+.pic7 {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: -110px -142px;
+}
+.pic8 {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: -210px -142px;
+}
+.pic9 {
+    width: 100px;
+    height: 150px;
+    float: left;
+    background-image: url('123.jpg');
+    background-position: -310px -142px;
+}
+
